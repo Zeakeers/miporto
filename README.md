@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! This is a modern, interactive, and visually stunning web development portfolio built with **React**, **TypeScript**, and **Tailwind CSS**, featuring a brutalist PPT-like presentation engine using **Framer Motion**.
 
-## 👨‍💻 About Me
+## About Me
 
 - **Name:** Dimas Adi Putra Arifin
 - **Role:** Web Developer
@@ -10,23 +10,16 @@ Welcome to my portfolio repository! This is a modern, interactive, and visually 
 - **Tech Stack:** React, Next.js, Node.js, Laravel
 - **Focus:** Building high-performance, visually stunning, and user-friendly web applications, combining aesthetic design with robust architecture.
 
-## 🚀 Projects Highlights
+## Projects Highlights
 
 My selected works span from Web Applications and Dashboards to SaaS platforms:
-- **Analytics Dashboard:** React / D3.js
-- **TaskFlow SaaS:** Next.js / Framer
-- **E-Commerce App:** Vue / Tailwind
-- **Mobile App UI:** React Native
+coming soon...
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
-- Frontend Web Dev (2023)
-- UI/UX Design (2023)
-- AWS Cloud (2024)
-- React Native (2024)
-- Cybersecurity (2024)
+coming soon...
 
-## 🔗 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/dimas-adi-putra-arifin-350104271/)
 - [GitHub](https://github.com/Zeakeers)
