@@ -1,73 +1,38 @@
-# React + TypeScript + Vite
+# Dimas Adi Putra Arifin - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio repository! This is a modern, interactive, and visually stunning web development portfolio built with **React**, **TypeScript**, and **Tailwind CSS**, featuring a brutalist PPT-like presentation engine using **Framer Motion**.
 
-Currently, two official plugins are available:
+## 👨‍💻 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Name:** Dimas Adi Putra Arifin
+- **Role:** Web Developer
+- **Experience:** 3+ years of web development
+- **Tech Stack:** React, Next.js, Node.js, Laravel
+- **Focus:** Building high-performance, visually stunning, and user-friendly web applications, combining aesthetic design with robust architecture.
 
-## React Compiler
+## 🚀 Projects Highlights
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+My selected works span from Web Applications and Dashboards to SaaS platforms:
+- **Analytics Dashboard:** React / D3.js
+- **TaskFlow SaaS:** Next.js / Framer
+- **E-Commerce App:** Vue / Tailwind
+- **Mobile App UI:** React Native
 
-## Expanding the ESLint configuration
+## 🏆 Certifications & Achievements
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- Frontend Web Dev (2023)
+- UI/UX Design (2023)
+- AWS Cloud (2024)
+- React Native (2024)
+- Cybersecurity (2024)
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🔗 Connect with Me
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- [LinkedIn](https://www.linkedin.com/in/dimas-adi-putra-arifin-350104271/)
+- [GitHub](https://github.com/Zeakeers)
+- [Instagram](https://instagram.com/dimasadi)
+- [Email](mailto:dimasadiputraarifin@gmail.com)
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+*This project was bootstrapped with Vite.*
